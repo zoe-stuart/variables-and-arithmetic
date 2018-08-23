@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class VariablesAndOperators here.
+ * Write a description of class VariablesAndArithmetic here.
  * 
  * @author (your name) 
- * @version August 25, 2014
+ * @version August 23, 2018
  */
 
 public class VariablesAndArithmetic
